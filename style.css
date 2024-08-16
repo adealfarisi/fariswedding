@@ -80,7 +80,7 @@ body {
 }
 
 .home {
-   background-image: url('img/bg.jpg');
+   background-image: url('img/ bg.jpg');
    background-size: cover;
    min-height: 100vh;
    margin-top: -6rem;
